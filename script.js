@@ -105,8 +105,8 @@ function getRankLevel(uid) {
         return 3;
     }
     if (uid === '814382') {
-        rankCache[uid] = 5;
-        return 5;
+        rankCache[uid] = 6;
+        return 6;
     }
     // --------------------------------------------
 
