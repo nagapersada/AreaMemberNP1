@@ -1,4 +1,4 @@
-const CACHE = 'dvteam-v26'; // Ganti versi ini TERAKHIR kalinya
+const CACHE = 'dvteam-v50'; // Ganti versi ini TERAKHIR kalinya
 const ASSETS = [
     './', 
     'index.html', 
